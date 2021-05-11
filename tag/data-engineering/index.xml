@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data engineering | Sudheer Ganisetti</title>
+    <link>https://sudheerganisetti.github.io/tag/data-engineering/</link>
+      <atom:link href="https://sudheerganisetti.github.io/tag/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>data engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sudheerganisetti.github.io/images/icon_huc51928fe27f661b4ab334eff98f193d1_363360_512x512_fill_lanczos_center_2.png</url>
+      <title>data engineering</title>
+      <link>https://sudheerganisetti.github.io/tag/data-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Intermediate Importing Data</title>
+      <link>https://sudheerganisetti.github.io/accomplishments/13_intermediate_importing_data_in_python/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/accomplishments/13_intermediate_importing_data_in_python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Importing Data</title>
+      <link>https://sudheerganisetti.github.io/accomplishments/12_introduction_to_importing_data_in_python/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/accomplishments/12_introduction_to_importing_data_in_python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandas Foundations</title>
+      <link>https://sudheerganisetti.github.io/accomplishments/08_pandas_foundations/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/accomplishments/08_pandas_foundations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engineering for Everyone</title>
+      <link>https://sudheerganisetti.github.io/accomplishments/03_data_engineering_for_everyone/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/accomplishments/03_data_engineering_for_everyone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

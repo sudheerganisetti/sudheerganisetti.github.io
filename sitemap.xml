@@ -2,6 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/data-science/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/deep-learning/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/14_introduction_to_deep_learning_in_python/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tags/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/data-analysis/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/data-engineering/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/13_intermediate_importing_data_in_python/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/12_introduction_to_importing_data_in_python/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/machine-learning/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/python/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/09_python_datascience_toolbox_part1/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/10_python_datascience_toolbox_part2/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/11_supervisedlearning_with_scikitllearn/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/08_pandas_foundations/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/07_intermediate_python/</loc>
+    <lastmod>2021-04-26T00:00:02+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/06_introduction_to_python/</loc>
+    <lastmod>2021-04-26T00:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/05_software_engineering_for_datascientists_in_python/</loc>
+    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/04_statistical_thinking_in_python_part_1/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/03_data_engineering_for_everyone/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/02_introduction_to_data_science_in_python/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sudheerganisetti.github.io/publication-type/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,8 +83,8 @@
     <loc>https://sudheerganisetti.github.io/publication/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sudheerganisetti.github.io/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>https://sudheerganisetti.github.io/accomplishments/01_datascience_for_everyone/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/publication/publication_03/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
@@ -54,9 +120,6 @@
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/tag/robotics/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/tags/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/admin/</loc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning | Sudheer Ganisetti</title>
+    <link>https://sudheerganisetti.github.io/tag/deep-learning/</link>
+      <atom:link href="https://sudheerganisetti.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sudheerganisetti.github.io/images/icon_huc51928fe27f661b4ab334eff98f193d1_363360_512x512_fill_lanczos_center_2.png</url>
+      <title>deep learning</title>
+      <link>https://sudheerganisetti.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Deep Learning</title>
+      <link>https://sudheerganisetti.github.io/accomplishments/14_introduction_to_deep_learning_in_python/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/accomplishments/14_introduction_to_deep_learning_in_python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
