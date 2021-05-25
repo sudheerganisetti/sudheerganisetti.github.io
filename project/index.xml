@@ -14,9 +14,9 @@
     
     <item>
       <title>Multiscale Modelling</title>
-      <link>https://sudheerganisetti.github.io/project/project_v01/</link>
+      <link>https://sudheerganisetti.github.io/project/01_multiscale_modelling/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/project/project_v01/</guid>
+      <guid>https://sudheerganisetti.github.io/project/01_multiscale_modelling/</guid>
       <description>&lt;h3&gt; Multiscale Modelling of the Influence of Oxygen on Structure and Cohesion of &amp;Sigma;5 Symmetrical Tilt Grain Boundary in Molybdenum &lt;/h3&gt;
 The brittle fracture of real materials originates from the atomistic mechanisms like sequential bond breaking, which leads to the crack initiation, propagation and finally to material damage in the macro scale. Predicting such material failures, and there by analyzing mechanical properties are challenging as well as complex tasks. To achieve these challenges, it often require the knowledge from atomic level to macroscopic level, therefore, scale bridging of different length scales is necessary.  
 &lt;p&gt;In this work, we have investigated how the oxygen and carbon impurities influence fracture behavior when segregated to the ∑5 symmetrical tilt grain boundary in molybdenum.
@@ -28,9 +28,9 @@ Mechanical properties such as work of separation and theoretical strength were c
     
     <item>
       <title>Phase Field</title>
-      <link>https://sudheerganisetti.github.io/project/project_v02/</link>
+      <link>https://sudheerganisetti.github.io/project/02_phase_field/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/project/project_v02/</guid>
+      <guid>https://sudheerganisetti.github.io/project/02_phase_field/</guid>
       <description>&lt;h3&gt; Building of Bridges using Phase Field Method &lt;/h3&gt;
 In civil engineering, shape optimization is necessary to build strong structures according to their structural performances. Most structural optimizations take into account  structural performances such as stress, mass, deformation. In this work, we have partially optimized the shape of a bridge which connects two banks of a river. To build the strong bridge to withstand high mechanical loads, we have used the technique of growing high strength material in the place of high stress areas, and filled the remaining place with a soft and low weight material such as ‘air’. The ‘growth’ of the high strength material in high stress fields has done based on the Phase Field method. The key idea used is the replacement of actual shape optimization problem by a two phase material distribution problem. The two materials used are the high contrast in their strength properties, a matrix material and a high strength material in the form of inclusions. Phase field  method was used to find the motion of optimized shape boundaries. To solve the multicomponent phase field equations, an open source library called ‘OpenPhase’ developed at Prof. Ingo Steinbach department, ICAMS, has been used. 
 &lt;p&gt;The above figure shows: (a) Initialization of different areas of a bridge with different phases, (b) A partially optimized arc shape of the bridge (every pole has the same eigenstrain)&lt;/p&gt;
@@ -40,9 +40,9 @@ In civil engineering, shape optimization is necessary to build strong structures
     
     <item>
       <title>DFT</title>
-      <link>https://sudheerganisetti.github.io/project/project_v03/</link>
+      <link>https://sudheerganisetti.github.io/project/03_diffusion_of_carbon/</link>
       <pubDate>Sun, 15 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/project/project_v03/</guid>
+      <guid>https://sudheerganisetti.github.io/project/03_diffusion_of_carbon/</guid>
       <description>&lt;h3&gt; Diffusion of Carbon in High Silicon Steel &lt;/h3&gt;
 Many important phenomena in materials science involve diffusion of impurities. It is well known that diffusion of carbon in metals typically occurs via an interstitial mechanism, which can be strongly affected by the presence of other alloying elements. The interstitial diffusion of carbon controls the phase transformation in steel and therefore the resulting microstructure and mechanical properties. 
 Density functional theory (DFT) based total energy and electronic structure calculations were performed with the Vienna Ab-Initio Simulation Package (VASP) to understand how silicon affects the the diffusion path of carbon in steel. The electron exchange and correlation interactions were approximated by the Generalized Gradient Approximation (GGA), and electron ion interactions were treated with Projector Augmented Wave (PAW) potentials. 
@@ -53,9 +53,9 @@ Through this work, we have studied two cases. In the first case, the energy barr
     
     <item>
       <title>Monte Carlo Simulations</title>
-      <link>https://sudheerganisetti.github.io/project/project_v04/</link>
+      <link>https://sudheerganisetti.github.io/project/04_monte_carlo/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/project/project_v04/</guid>
+      <guid>https://sudheerganisetti.github.io/project/04_monte_carlo/</guid>
       <description>&lt;p&gt;Monte Carlo method was used to tackle the global optimization problem of molecular structure. A Fortran code was developed to optimize a 13 atom molecular structure. Molecular simulations are very convenient to get insight into the structure and thermal behavior of small atomic clusters. Atomic structures are finite size aggregates containing between a few and millions of particles. Due to their small dimensions, their theoretical study faces serious difficulties. The most properties exhibit a strong dependence on the number of atoms. These difficulties actually begin with the unoptimized structure, from which other characteristics will develop. Predicting the temperature where the cluster changes phase also requires simulations. By the use of numerical simulation method, we can achieve phase transition easily. Metropolis Monte Carlo method was chosen to sample the configuration space for structural  optimization, and for simulating thermal equilibrium in a small Lennard-Jones cluster. Simulated Annealing technique stands as one of the most general and efficient ways  of addressing the global optimization problem. Simulated annealing essentially consists of  cooling slowly. The initial temperature, cooling schedule and total simulation length are the  few but important parameters of a simulated annealing optimization. Starting from a random  atomic configuration, the MC simulation is carried out following the metropolis acceptance rule, and after some number of steps the temperature was decreased. In this way, the  most stable configuration of a 13 atom cluster was found by energy minimization.&lt;/p&gt;
 </description>
     </item>

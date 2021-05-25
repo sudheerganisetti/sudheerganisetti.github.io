@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fem | Sudheer Ganisetti</title>
+    <link>https://sudheerganisetti.github.io/tag/fem/</link>
+      <atom:link href="https://sudheerganisetti.github.io/tag/fem/index.xml" rel="self" type="application/rss+xml" />
+    <description>fem</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sudheerganisetti.github.io/images/icon_huc51928fe27f661b4ab334eff98f193d1_363360_512x512_fill_lanczos_center_2.png</url>
+      <title>fem</title>
+      <link>https://sudheerganisetti.github.io/tag/fem/</link>
+    </image>
+    
+    <item>
+      <title>Multiscale Modelling</title>
+      <link>https://sudheerganisetti.github.io/project/01_multiscale_modelling/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/project/01_multiscale_modelling/</guid>
+      <description>&lt;h3&gt; Multiscale Modelling of the Influence of Oxygen on Structure and Cohesion of &amp;Sigma;5 Symmetrical Tilt Grain Boundary in Molybdenum &lt;/h3&gt;
+The brittle fracture of real materials originates from the atomistic mechanisms like sequential bond breaking, which leads to the crack initiation, propagation and finally to material damage in the macro scale. Predicting such material failures, and there by analyzing mechanical properties are challenging as well as complex tasks. To achieve these challenges, it often require the knowledge from atomic level to macroscopic level, therefore, scale bridging of different length scales is necessary.  
+&lt;p&gt;In this work, we have investigated how the oxygen and carbon impurities influence fracture behavior when segregated to the ∑5 symmetrical tilt grain boundary in molybdenum.
+Mechanical properties such as work of separation and theoretical strength were computed based on the calculations performed at different length scales, i.e, from atomistic length scales to macroscopic length scales. Ab-initio method based on density functional theory were used for the atomistic scale calculations, and finite element method based on cohesive traction separation laws were used for the continuum scale calculations.&lt;/p&gt;
+&lt;p&gt;The key idea to this approach is the recasting of the atomistic results within the frame  work of a continuum cohesive zone model. The traction separation laws were derived by performing the tensile tests using the first principle calculations. The effective cohesive zone elements were then defined, and placed along all the possible fracture interfaces in a finite element mesh. Finite element simulations were then used to study the failure properties at the macroscopic length scales.&lt;/p&gt;
+&lt;p&gt;Density functional theory based total energy and electronic structure calculations were performed with the Vienna Ab-initio Simulation Package (VASP). The electron exchange and correlation interactions were approximated by the generalized gradient approximation, and electron ion interactions were treated with the ultrasoft pseudo potentials for 80 atom supercell. The grain boundary energy, work of separation, and theoretical strengths were calculated for various oxygen impurity concentrations, i.e, from 0 to 4 oxygen atoms per grain boundary. It was found that oxygen shows an embrittling effect in the molybdenum grain boundary, see the above figure. However, when carbon is placed along with oxygen, the embrittling effect of the oxygen was compensated partially by the carbon atoms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

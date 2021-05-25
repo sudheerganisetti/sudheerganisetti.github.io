@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phase | Sudheer Ganisetti</title>
+    <link>https://sudheerganisetti.github.io/tag/phase/</link>
+      <atom:link href="https://sudheerganisetti.github.io/tag/phase/index.xml" rel="self" type="application/rss+xml" />
+    <description>phase</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sudheerganisetti.github.io/images/icon_huc51928fe27f661b4ab334eff98f193d1_363360_512x512_fill_lanczos_center_2.png</url>
+      <title>phase</title>
+      <link>https://sudheerganisetti.github.io/tag/phase/</link>
+    </image>
+    
+    <item>
+      <title>Phase Field</title>
+      <link>https://sudheerganisetti.github.io/project/02_phase_field/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/project/02_phase_field/</guid>
+      <description>&lt;h3&gt; Building of Bridges using Phase Field Method &lt;/h3&gt;
+In civil engineering, shape optimization is necessary to build strong structures according to their structural performances. Most structural optimizations take into account  structural performances such as stress, mass, deformation. In this work, we have partially optimized the shape of a bridge which connects two banks of a river. To build the strong bridge to withstand high mechanical loads, we have used the technique of growing high strength material in the place of high stress areas, and filled the remaining place with a soft and low weight material such as ‘air’. The ‘growth’ of the high strength material in high stress fields has done based on the Phase Field method. The key idea used is the replacement of actual shape optimization problem by a two phase material distribution problem. The two materials used are the high contrast in their strength properties, a matrix material and a high strength material in the form of inclusions. Phase field  method was used to find the motion of optimized shape boundaries. To solve the multicomponent phase field equations, an open source library called ‘OpenPhase’ developed at Prof. Ingo Steinbach department, ICAMS, has been used. 
+&lt;p&gt;The above figure shows: (a) Initialization of different areas of a bridge with different phases, (b) A partially optimized arc shape of the bridge (every pole has the same eigenstrain)&lt;/p&gt;
+&lt;p&gt;A C++ code has been written to initialize the model with different phases representing different material properties in the OpenPhase source code. The driving force is assigned to  the inclusion material in such a way that it grows in the region where the stresses are high. From the results, we observed that the shape of the optimized structure looks like a semicircle arc shape. Here, we have not taken the idle values of the input parameters for the surrounding environments like water and air etc., so the arc shape is not fully formed. Some more work has to be done to complete the arc shape bridge. However, based on the primary results, we have showcased that the structures can be optimized with Phase Fields using the OpenPhase code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

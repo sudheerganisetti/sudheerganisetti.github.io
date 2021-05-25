@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql | Sudheer Ganisetti</title>
+    <link>https://sudheerganisetti.github.io/tag/sql/</link>
+      <atom:link href="https://sudheerganisetti.github.io/tag/sql/index.xml" rel="self" type="application/rss+xml" />
+    <description>sql</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sudheerganisetti.github.io/images/icon_huc51928fe27f661b4ab334eff98f193d1_363360_512x512_fill_lanczos_center_2.png</url>
+      <title>sql</title>
+      <link>https://sudheerganisetti.github.io/tag/sql/</link>
+    </image>
+    
+    <item>
+      <title>The Complete SQL Bootcamp 2021</title>
+      <link>https://sudheerganisetti.github.io/accomplishments/16_udemy_sql_bootcamp/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/accomplishments/16_udemy_sql_bootcamp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

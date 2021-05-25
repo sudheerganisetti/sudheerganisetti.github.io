@@ -5,12 +5,20 @@
     <link>https://sudheerganisetti.github.io/tag/data-engineering/</link>
       <atom:link href="https://sudheerganisetti.github.io/tag/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     <description>data engineering</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sudheerganisetti.github.io/images/icon_huc51928fe27f661b4ab334eff98f193d1_363360_512x512_fill_lanczos_center_2.png</url>
       <title>data engineering</title>
       <link>https://sudheerganisetti.github.io/tag/data-engineering/</link>
     </image>
+    
+    <item>
+      <title>Complete Machine Learning &amp; Data Science Bootcamp 2021</title>
+      <link>https://sudheerganisetti.github.io/accomplishments/15_udemy_data_science_bootcamp/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/accomplishments/15_udemy_data_science_bootcamp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intermediate Importing Data</title>

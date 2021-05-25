@@ -3,40 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sudheerganisetti.github.io/accomplishments/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/bootcamps/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/sql/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tags/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/16_udemy_sql_bootcamp/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/accomplishments/15_udemy_data_science_bootcamp/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/data-analysis/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/data-engineering/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/tag/data-science/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/tag/deep-learning/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/machine-learning/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/python/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/accomplishments/14_introduction_to_deep_learning_in_python/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/tags/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/tag/data-analysis/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/tag/data-engineering/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/accomplishments/13_intermediate_importing_data_in_python/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/accomplishments/12_introduction_to_importing_data_in_python/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/tag/machine-learning/</loc>
-    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/tag/python/</loc>
-    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/accomplishments/09_python_datascience_toolbox_part1/</loc>
     <lastmod>2021-04-28T00:00:00+00:00</lastmod>
@@ -101,25 +113,31 @@
     <loc>https://sudheerganisetti.github.io/publication/publication_01/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sudheerganisetti.github.io/project/project_v01/</loc>
+    <loc>https://sudheerganisetti.github.io/tag/dft/</loc>
+    <lastmod>2012-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tag/fem/</loc>
+    <lastmod>2012-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/project/01_multiscale_modelling/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/project/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sudheerganisetti.github.io/project/project_v02/</loc>
+    <loc>https://sudheerganisetti.github.io/tag/phase/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sudheerganisetti.github.io/project/project_v03/</loc>
+    <loc>https://sudheerganisetti.github.io/project/02_phase_field/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/project/03_diffusion_of_carbon/</loc>
     <lastmod>2011-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sudheerganisetti.github.io/tag/demo/</loc>
+    <loc>https://sudheerganisetti.github.io/tag/monte/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sudheerganisetti.github.io/project/project_v04/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/tag/robotics/</loc>
+    <loc>https://sudheerganisetti.github.io/project/04_monte_carlo/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/admin/</loc>

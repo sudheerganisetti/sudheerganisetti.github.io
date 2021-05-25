@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>monte | Sudheer Ganisetti</title>
+    <link>https://sudheerganisetti.github.io/tag/monte/</link>
+      <atom:link href="https://sudheerganisetti.github.io/tag/monte/index.xml" rel="self" type="application/rss+xml" />
+    <description>monte</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sudheerganisetti.github.io/images/icon_huc51928fe27f661b4ab334eff98f193d1_363360_512x512_fill_lanczos_center_2.png</url>
+      <title>monte</title>
+      <link>https://sudheerganisetti.github.io/tag/monte/</link>
+    </image>
+    
+    <item>
+      <title>Monte Carlo Simulations</title>
+      <link>https://sudheerganisetti.github.io/project/04_monte_carlo/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/project/04_monte_carlo/</guid>
+      <description>&lt;p&gt;Monte Carlo method was used to tackle the global optimization problem of molecular structure. A Fortran code was developed to optimize a 13 atom molecular structure. Molecular simulations are very convenient to get insight into the structure and thermal behavior of small atomic clusters. Atomic structures are finite size aggregates containing between a few and millions of particles. Due to their small dimensions, their theoretical study faces serious difficulties. The most properties exhibit a strong dependence on the number of atoms. These difficulties actually begin with the unoptimized structure, from which other characteristics will develop. Predicting the temperature where the cluster changes phase also requires simulations. By the use of numerical simulation method, we can achieve phase transition easily. Metropolis Monte Carlo method was chosen to sample the configuration space for structural  optimization, and for simulating thermal equilibrium in a small Lennard-Jones cluster. Simulated Annealing technique stands as one of the most general and efficient ways  of addressing the global optimization problem. Simulated annealing essentially consists of  cooling slowly. The initial temperature, cooling schedule and total simulation length are the  few but important parameters of a simulated annealing optimization. Starting from a random  atomic configuration, the MC simulation is carried out following the metropolis acceptance rule, and after some number of steps the temperature was decreased. In this way, the  most stable configuration of a 13 atom cluster was found by energy minimization.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
