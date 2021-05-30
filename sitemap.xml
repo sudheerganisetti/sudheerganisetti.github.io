@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sudheerganisetti.github.io/tag/machine/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/project/05_heart_disease/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/project/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/tags/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sudheerganisetti.github.io/accomplishments/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,12 +24,6 @@
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/tag/sql/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/tags/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/accomplishments/16_udemy_sql_bootcamp/</loc>
@@ -120,9 +129,6 @@
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/project/01_multiscale_modelling/</loc>
-    <lastmod>2012-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/project/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/tag/phase/</loc>
