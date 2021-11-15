@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sudheerganisetti.github.io/publication-type/2/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/publication/publication_05/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/publication_types/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/publication/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sudheerganisetti.github.io/publication/publication_04/</loc>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sudheerganisetti.github.io/tag/machine/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +27,6 @@
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/project/</loc>
-    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/tags/</loc>
@@ -88,21 +103,6 @@
   </url><url>
     <loc>https://sudheerganisetti.github.io/accomplishments/02_introduction_to_data_science_in_python/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/publication-type/2/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/publication/publication_05/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/publication/publication_04/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/publication_types/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sudheerganisetti.github.io/publication/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sudheerganisetti.github.io/accomplishments/01_datascience_for_everyone/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
