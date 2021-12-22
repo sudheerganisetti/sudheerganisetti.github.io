@@ -5,12 +5,20 @@
     <link>https://sudheerganisetti.github.io/</link>
       <atom:link href="https://sudheerganisetti.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sudheer Ganisetti</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sudheerganisetti.github.io/images/icon_huc51928fe27f661b4ab334eff98f193d1_363360_512x512_fill_lanczos_center_2.png</url>
       <title>Sudheer Ganisetti</title>
       <link>https://sudheerganisetti.github.io/</link>
     </image>
+    
+    <item>
+      <title>Data Scientist with Python Track</title>
+      <link>https://sudheerganisetti.github.io/accomplishments/17_datacamp_datascience/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sudheerganisetti.github.io/accomplishments/17_datacamp_datascience/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ionic Conductivity of NASICON based Na3Al2P3O12 Glass Electrolytes − Role of Charge Compensators</title>
@@ -57,118 +65,6 @@
       <link>https://sudheerganisetti.github.io/accomplishments/15_udemy_data_science_bootcamp/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sudheerganisetti.github.io/accomplishments/15_udemy_data_science_bootcamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to Deep Learning</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/14_introduction_to_deep_learning_in_python/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/14_introduction_to_deep_learning_in_python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intermediate Importing Data</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/13_intermediate_importing_data_in_python/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/13_intermediate_importing_data_in_python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to Importing Data</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/12_introduction_to_importing_data_in_python/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/12_introduction_to_importing_data_in_python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python Data Science Toolbox (Part 1)</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/09_python_datascience_toolbox_part1/</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/09_python_datascience_toolbox_part1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python Data Science Toolbox (Part 2)</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/10_python_datascience_toolbox_part2/</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/10_python_datascience_toolbox_part2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervised Learning with scikit-learn</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/11_supervisedlearning_with_scikitllearn/</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/11_supervisedlearning_with_scikitllearn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pandas Foundations</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/08_pandas_foundations/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/08_pandas_foundations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intermediate Python</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/07_intermediate_python/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:02 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/07_intermediate_python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to Python</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/06_introduction_to_python/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:01 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/06_introduction_to_python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Engineering for DS</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/05_software_engineering_for_datascientists_in_python/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/05_software_engineering_for_datascientists_in_python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Thinking in Python</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/04_statistical_thinking_in_python_part_1/</link>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/04_statistical_thinking_in_python_part_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Engineering for Everyone</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/03_data_engineering_for_everyone/</link>
-      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/03_data_engineering_for_everyone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to Data Science in Python</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/02_introduction_to_data_science_in_python/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/02_introduction_to_data_science_in_python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Science for Everyone</title>
-      <link>https://sudheerganisetti.github.io/accomplishments/01_datascience_for_everyone/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://sudheerganisetti.github.io/accomplishments/01_datascience_for_everyone/</guid>
       <description></description>
     </item>
     
